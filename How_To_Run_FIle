@@ -1,0 +1,4 @@
+npm install - this will install node modules
+paste this code in cmd - set NODE_OPTIONS=--openssl-legacy-provider
+now run ngserve
+required node is - 18v and npm - 7.
